@@ -1,0 +1,3 @@
+python3 collect_and_send_to_db_15yrs_1d.py
+python3 collect_and_send_to_db_24hr_1min.py
+python3 clean_duplicates_both_db.py
